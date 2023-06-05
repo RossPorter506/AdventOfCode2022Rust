@@ -1,8 +1,4 @@
-use std::fs::File;
-use std::io::BufReader;
-use std::io::prelude::*;
-
-use anyhow::{Result,anyhow};
+use crate::prelude::*;
 
 /**/
 // https://adventofcode.com/2022/day/1
