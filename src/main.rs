@@ -1,7 +1,8 @@
 #![allow(dead_code)]
 
 mod day1;
-mod day2; use day2::*;
+mod day2;
+mod day3; use day3::*;
 mod prelude; use prelude::*;
 
 /**/
